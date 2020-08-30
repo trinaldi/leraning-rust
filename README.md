@@ -13,9 +13,11 @@ From the [documentation](https://doc.rust-lang.org/):
 So far there's a fork of Rustlings exercises with solutions [here](https://github.com/trinaldi/rustlings-solutions). So far, most of the basic exercises are done.
 
 This repo is based on the [The Rust Programming Language book](https://doc.rust-lang.org/book/).  
-We'll start with the `gessuing game` and move forward from then on. Rustilings is a *great* way to learn using TDD and I highly recommend it.
+We'll start with the `guessing game` and move forward from then on. Rustilings is a *great* way to learn using TDD and I highly recommend it.
 
 I'm hoping the book will clear some things out and give a broader perspective on rust and its use.
+
+  + The `guessing game` is **very** nice to start with!
 
 ## Wanna help?
 
